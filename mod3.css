@@ -1,0 +1,48 @@
+@media(min-width:768px){
+    button,.visible-xs{
+        display: none;
+    }
+}
+@media(max-width:767px){
+     .visible-xs{
+        display: flex;
+    }
+}
+.nav-brand{
+    color:#f8f9fa;
+}
+a{
+    text-align: center;
+}
+a:link, a:visited{
+    text-decoration: none;
+}
+
+/*Termina Navbar*/
+
+
+h2{
+    margin: 15px auto 15px;
+}
+
+.Parrafo{
+    background-color: aqua;
+    height: 1200px;
+    margin-bottom: 20px;
+    padding: 10px;
+    position: relative;
+}
+.position{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    
+}
+
+
+
+h3{
+    font-size: 20px;
+}
+
+/*Termina Contenido*/
